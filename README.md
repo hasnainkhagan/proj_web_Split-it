@@ -1,5 +1,12 @@
-# Split it. [🌐WEB\APP ]
-
+# SPLIT it. [🌐WEB\APP ]
+![APP](https://media.discordapp.net/attachments/1294102607517712444/1295560371171622925/image.png?ex=670fc0de&is=670e6f5e&hm=e03f8fd90bf1fcd2a23a06cc5f1751cfb021db34250ae14cf06557eb359567db&=&format=webp&quality=lossless)
+<br>
+<h3 align="center">A Full-Stack Bill-Splitting Web Application.</h3>
+<h4 align="center">Design [SPLIT it.] Inspiration from <a href="https://bentogrids.com/">bentogrids</a>.</h4>
+<h5 align="center">💻 I've simplified the code while building it, no more complex codes !</h5>
+<h4 align="center">🌱 Let's grow together! 🍴 Fork it, ⭐ Star it, 📚 Learn it !</h4>
+<h2 align="center">Learn how to code !</h2>
+<hr>
 <h1>How to run the Code ?</h1>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
