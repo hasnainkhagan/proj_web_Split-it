@@ -23,7 +23,9 @@ const userSchema = new mongoose.Schema({
     tokens: {
         type: Array,
         default: []
-    }
+    },
+    currency: String,
+    country: String,
 }, {timestamps: true})      
 
 export const User = mongoose.model('User', userSchema)
