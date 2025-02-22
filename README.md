@@ -1,5 +1,5 @@
 # SPLIT it. [🌐WEB\APP ]
-![APP](https://media.discordapp.net/attachments/1294102607517712444/1295560371171622925/image.png?ex=670fc0de&is=670e6f5e&hm=e03f8fd90bf1fcd2a23a06cc5f1751cfb021db34250ae14cf06557eb359567db&=&format=webp&quality=lossless)
+![APP](https://hasnainkhagan.vercel.app/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fg2tqi0p3%2Fproduction%2Fe31f55af21c1da0da3a034969c42f6808763f8d9-1328x1008.png&w=1920&q=75)
 <br>
 <h3 align="center">A Full-Stack Bill-Splitting Web Application.</h3>
 <h4 align="center">Design [SPLIT it.] Inspiration from <a href="https://bentogrids.com/">bentogrids</a>.</h4>
